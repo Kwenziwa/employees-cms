@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Laravel" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" editBeforeRun="true" server_name="Laravel">
+  <configuration default="false" name="Laravel" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" singleton="false" server_name="Laravel">
     <method v="2">
       <option name="LaunchBrowser.Before.Run" url="http://127.0.0.1:8000/" />
     </method>
